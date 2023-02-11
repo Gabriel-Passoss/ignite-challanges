@@ -18,6 +18,9 @@ export const HeaderContainer = styled.header`
 
   div {
     display: flex;
+    justify-content: center;
+    width: 50%;
+    margin: 0 auto;
   }
 
   input {
